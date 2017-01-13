@@ -1,13 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 13, 2017
+
+**Today's Progress**: Resolved issue from Day 4 that resulted in calling the catch-all route multiple times. Created a new route to return a list of words based on n length passed to API.
+
+**Thoughts** Continue with lists route and performance test results returned via array filter vs trie filter.
+
+**Link to work:** [Dictionary API](https://github.com/lyndseybrowning/dictionary-api)
+
 ### Day 4: January 12, 2017
 
-**Today's Progress**: Struggled to get the default error handler to work for invalid URL's requested. Tried calling the default route after routes.init() in main.js but this didn't work. 
+**Today's Progress**: Struggled to get the default error handler to work for invalid URL's requested. Tried calling the default route after routes.init() in main.js but this didn't work.
 
 **Thoughts** Need to know more about Express and error handling.
 
 **Link to work:** [Dictionary API](https://github.com/lyndseybrowning/dictionary-api)
-
 
 ### Day 3: January 11, 2017
 
