@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 14, 2017
+
+**Today's Progress**: Used express-validator to validate lists route. Created a custom validator to check existence of at least one parameter in a list.
+
+**Thoughts** Would like to make some more progress on prefix and suffix on day 7.
+
+**Link to work:** [Dictionary API](https://github.com/lyndseybrowning/dictionary-api)
+
 ### Day 5: January 13, 2017
 
 **Today's Progress**: Resolved issue from Day 4 that resulted in calling the catch-all route multiple times. Created a new route to return a list of words based on n length passed to API.
