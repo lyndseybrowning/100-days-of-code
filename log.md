@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 15, 2017
+
+**Today's Progress**: Added prefix and suffix lists. The API now handles getting by length, prefix, suffix or a combination of some/all.
+
+**Thoughts** I'd like to performance test trie vs array for the above methods.
+
+**Link to work:** [Dictionary API](https://github.com/lyndseybrowning/dictionary-api)
+
 ### Day 6: January 14, 2017
 
 **Today's Progress**: Used express-validator to validate lists route. Created a custom validator to check existence of at least one parameter in a list.
