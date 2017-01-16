@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 16, 2017
+
+**Today's Progress**: Renamed project. Performance tested Trie vs Array for prefix search. Replaced dictionary prefix filter with Trie filter as it was much faster!
+
+**Thoughts** Use Trie for better performance.
+
+**Link to work:** [Word API](https://github.com/lyndseybrowning/word-api)
+
 ### Day 7: January 15, 2017
 
 **Today's Progress**: Added prefix and suffix lists. The API now handles getting by length, prefix, suffix or a combination of some/all.
