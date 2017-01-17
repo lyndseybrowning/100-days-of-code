@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 17, 2017
+
+**Today's Progress**: Used native JavaScript for loops for suffix and length searching.
+
+**Thoughts** Start generate permutation lists tomorrow.
+
+**Link to work:** [Word API](https://github.com/lyndseybrowning/word-api)
+
+
 ### Day 8: January 16, 2017
 
 **Today's Progress**: Renamed project. Performance tested Trie vs Array for prefix search. Replaced dictionary prefix filter with Trie filter as it was much faster!
