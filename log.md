@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 18, 2017
+
+**Today's Progress**: Added a basic description of API to the README. Created a project to handle tasks. Created esLint configuration (incomplete)
+
+**Thoughts** Made good progress with esLint Config. Using AirBnB as a guide: [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 9: January 17, 2017
 
 **Today's Progress**: Used native JavaScript for loops for suffix and length searching.
@@ -7,7 +15,6 @@
 **Thoughts** Start generate permutation lists tomorrow.
 
 **Link to work:** [Word API](https://github.com/lyndseybrowning/word-api)
-
 
 ### Day 8: January 16, 2017
 
