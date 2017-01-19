@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 19, 2017
+
+**Today's Progress**: Continued with esLint configuration.
+
+**Thoughts** Using AirBnB and esLint.org as guides: [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+[http://eslint.org/docs/rules/](http://eslint.org/docs/rules/)
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 10: January 18, 2017
 
 **Today's Progress**: Added a basic description of API to the README. Created a project to handle tasks. Created esLint configuration (incomplete)
