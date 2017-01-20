@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 20, 2017
+
+**Today's Progress**: Continued ESLint configuration. 
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
+
 ### Day 11: January 19, 2017
 
 **Today's Progress**: Continued with esLint configuration.
