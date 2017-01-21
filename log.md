@@ -1,11 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 12: January 20, 2017
+### Day 13: January 21, 2017
 
-**Today's Progress**: Continued ESLint configuration. 
+**Today's Progress**: Finalised ESLint configuration. Looked at test frameworks, was overwhelming.
+
+**Thoughts**: Need to understand more about TDD before choosing a framework for unit tests.
 
 **Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
 
+
+### Day 12: January 20, 2017
+
+**Today's Progress**: Continued ESLint configuration.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
 
 ### Day 11: January 19, 2017
 
