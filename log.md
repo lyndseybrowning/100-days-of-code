@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 22, 2017
+
+**Today's Progress**: Wrote my first test using superagent and mocha.
+
+**Thoughts**: I feel like there's a big learning curve coming for TDD, but one I'm happy to undertake.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 13: January 21, 2017
 
 **Today's Progress**: Finalised ESLint configuration. Looked at test frameworks, was overwhelming.
@@ -7,7 +15,6 @@
 **Thoughts**: Need to understand more about TDD before choosing a framework for unit tests.
 
 **Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
-
 
 ### Day 12: January 20, 2017
 
