@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 23, 2017
+
+**Today's Progress**: Wrote my first 'passing' test with Mocha, Chai and Supertest.
+
+**Thoughts**: I should start making some better progress now that I have created a working test environment.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 14: January 22, 2017
 
 **Today's Progress**: Wrote my first test using superagent and mocha.
