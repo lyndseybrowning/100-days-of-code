@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 24, 2017
+
+**Today's Progress**: Wrote a blog post about Day 15 and writing my first tests and made some small updates to the codebase.
+
+**Link to work:** [lyndseyb.co.uk](http://lyndseyb.co.uk/posts/100-days-of-code-day-15)
+
 ### Day 15: January 23, 2017
 
 **Today's Progress**: Wrote my first 'passing' test with Mocha, Chai and Supertest.
