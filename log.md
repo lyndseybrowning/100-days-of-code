@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 25, 2017
+
+**Today's Progress**: Set up tests to update as I make changes using the watch flag. Wrote some blog posts about my previous 2 days.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 16: January 24, 2017
 
 **Today's Progress**: Wrote a blog post about Day 15 and writing my first tests and made some small updates to the codebase.
