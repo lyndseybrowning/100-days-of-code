@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 27, 2017
+
+**Today's Progress**: Wrote unit tests for dictionary module.
+
+**Thoughts**: Finding it difficult to know which tests to write. I'm guessing it will come with practise.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 18: January 26, 2017
 
 **Today's Progress**: Wrote some more API tests.
