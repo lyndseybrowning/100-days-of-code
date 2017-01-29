@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 29, 2017
+
+**Today's Progress**: Wrote a blog post about my learnings with Unit Testing, did some more reading and learning.
+
 ### Day 19: January 27, 2017
 
 **Today's Progress**: Wrote unit tests for dictionary module.
