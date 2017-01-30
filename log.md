@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 30, 2017
+
+**Today's Progress**: More Unit Testing. Enjoying learning and understanding more about test-first programming.
+
+**Link to work:** [http://lyndseyb.co.uk/posts/100-days-of-code-day-21](http://lyndseyb.co.uk/posts/100-days-of-code-day-21)
+
 ### Day 20: January 29, 2017
 
 **Today's Progress**: Wrote a blog post about my learnings with Unit Testing, did some more reading and learning.
