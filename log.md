@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 31, 2017
+
+**Today's Progress**: More Unit Testing and refactoring the API. Getting a good grip on unit testing.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 21: January 30, 2017
 
 **Today's Progress**: More Unit Testing. Enjoying learning and understanding more about test-first programming.
