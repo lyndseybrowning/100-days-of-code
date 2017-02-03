@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 03, 2017
+
+**Today's Progress**: Online learning course, wrote blog post regarding ES5 Array methods.
+
+**Link to work:** [http://bit.ly/2kpZWJC](http://bit.ly/2kpZWJC)
+
 ### Day 23: February 01, 2017
 
 **Today's Progress**: Refactoring and unit testing
