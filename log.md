@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 05, 2017
+
+**Today's Progress**: Added additional unit tests and set up Istanbul for code coverage.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 24: February 03, 2017
 
 **Today's Progress**: Online learning course, wrote blog post regarding ES5 Array methods.
