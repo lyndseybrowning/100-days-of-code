@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 06, 2017
+
+**Today's Progress**: Wrote a blog post about setting up Istanbul for code coverage. Helped to cement learning.
+
+**Link to work:** [http://lyndseyb.co.uk/posts/100-days-of-code-day-25](http://lyndseyb.co.uk/posts/100-days-of-code-day-25)
+
 ### Day 25: February 05, 2017
 
 **Today's Progress**: Added additional unit tests and set up Istanbul for code coverage.
