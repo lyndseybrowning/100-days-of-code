@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 08, 2017
+
+**Today's Progress**: Updated test suite for 100% code coverage with Istanbul.
+
+**Link to work:** [wordapi.net](https://github.com/lyndseybrowning/wordapi.net)
+
 ### Day 26: February 06, 2017
 
 **Today's Progress**: Wrote a blog post about setting up Istanbul for code coverage. Helped to cement learning.
