@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 11, 2017
+
+**Today's Progress**: Continued work on NPM trie module.
+
+**Link to work:** [trie-prefix](https://github.com/lyndseybrowning/trie-prefix)
+
+### Day 29: February 10, 2017
+
+**Today's Progress**: Unit testing with Jest. Forgot to add entry!
+
+**Link to work:** [trie-prefix](https://github.com/lyndseybrowning/trie-prefix)
+
 ### Day 28: February 09, 2017
 
 **Today's Progress**: Unit testing with Jest. Started NPM module for trie generation and prefix search.
