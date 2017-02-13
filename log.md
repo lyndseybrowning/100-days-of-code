@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 13, 2017
+
+**Today's Progress**: Continued work on NPM trie module.
+
+**Link to work:** [trie-prefix](https://github.com/lyndseybrowning/trie-prefix)
+
 ### Day 30: February 11, 2017
 
 **Today's Progress**: Continued work on NPM trie module.
