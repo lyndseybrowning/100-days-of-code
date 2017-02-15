@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 15, 2017
+
+**Today's Progress**: Wrote a blog post about deep-cloning JavaScript objects and my learnings about Object.assign and spread syntax.
+
+**Link to work:** [Deep Cloning JavaScript Objects](http://lyndseyb.co.uk/posts/deep-cloning-javascript-objects)
+
 ### Day 31: February 13, 2017
 
 **Today's Progress**: Continued work on NPM trie module.
