@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 16, 2017
+
+**Today's Progress**: Added methods for getting anagrams and sub-anagrams from a Trie.
+
+**Link to work:** [Trie Prefix](https://github.com/lyndseybrowning/trie-prefix)
+
 ### Day 32: February 15, 2017
 
 **Today's Progress**: Wrote a blog post about deep-cloning JavaScript objects and my learnings about Object.assign and spread syntax.
