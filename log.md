@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 17, 2017
+
+**Today's Progress**: Created first published NPM module. Published trie-prefix-tree.
+
+**Link to work:** [Trie Prefix Tree](https://github.com/lyndseybrowning/trie-prefix-tree)
+
+
 ### Day 33: February 16, 2017
 
 **Today's Progress**: Added methods for getting anagrams and sub-anagrams from a Trie.
