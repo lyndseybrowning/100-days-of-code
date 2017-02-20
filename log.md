@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 35: February 18, 2017
+### Day 36: February 20, 2017
+
+**Today's Progress**: Published post describing npm trie package.
+
+**Link to work:** [Trie Prefix Tree](http://lyndseyb.co.uk/posts/trie-prefix-tree)
+
+### Day 35: February 19, 2017
 
 **Today's Progress**: Published documentation for NPM trie-prefix-tree module
 
