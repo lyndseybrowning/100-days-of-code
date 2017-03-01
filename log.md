@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: March 01, 2017
+
+**Today's Progress**: Continued with es6.io by Wes Bos and did a git course on egghead.io
+
+**Link to work:** [https://github.com/lyndseybrowning/egghead-practical-git](https://github.com/lyndseybrowning/egghead-practical-git)
+
 ### Day 38: February 28, 2017
 
 **Today's Progress**: Started es6.io by Wes Bos
