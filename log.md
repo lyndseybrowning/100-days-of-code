@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 42: March 04, 2017
+
+**Today's Progress**: Finished git course. Started week 2 of Learning how to Learn (Coursera course).
+
+**Link to work:** [https://github.com/lyndseybrowning/egghead-practical-git](https://github.com/lyndseybrowning/egghead-practical-git)
+
 ### Day 41: March 03, 2017
 
-**Today's Progress**: More Git practise. 
+**Today's Progress**: More Git practise.
 
 **Link to work:** [https://github.com/lyndseybrowning/egghead-practical-git](https://github.com/lyndseybrowning/egghead-practical-git)
 
