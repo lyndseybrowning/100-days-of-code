@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: March 06, 2017
+
+**Today's Progress**: Implementing boggle-solver npm package with Jest.
+
+**Link to work:** Repo is private for now.
+
 ### Day 42: March 04, 2017
 
 **Today's Progress**: Finished git course. Started week 2 of Learning how to Learn (Coursera course).
