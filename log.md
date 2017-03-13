@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46: March 13, 2017
+
+**Today's Progress**: Implementing boggle-solver npm package with Jest.
+
+**Link to work:** Repo is private for now.
+
 ### Day 45: March 09, 2017
 
 **Today's Progress**: Implementing boggle-solver npm package with Jest.
