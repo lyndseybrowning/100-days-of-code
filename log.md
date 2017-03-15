@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 47: March 15, 2017
+
+**Today's Progress**: Freecodecamp algorithms.
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/freecodecamp-algorithms/tree/master/src)
+
 ### Day 46: March 13, 2017
 
 **Today's Progress**: Implementing boggle-solver npm package with Jest.
