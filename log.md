@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 48: March 18, 2017
+
+**Today's Progress**: Finished Freecodecamp basic algorithms.
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/freecodecamp-algorithms/tree/master/src)
+
 ### Day 47: March 15, 2017
 
 **Today's Progress**: Freecodecamp algorithms.
