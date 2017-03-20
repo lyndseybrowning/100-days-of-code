@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: March 20, 2017
+
+**Today's Progress**: Finished the solver algorithm for node boggle solver package.
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/node-boggle-solver)
+
 ### Day 48: March 18, 2017
 
 **Today's Progress**: Finished Freecodecamp basic algorithms.
