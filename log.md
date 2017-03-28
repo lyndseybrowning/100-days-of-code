@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 51: March 28, 2017
+
+**Today's Progress**: Finished boggle solver functions.
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/node-boggle-solver)
+
+### Day 50: March 24, 2017
+
+**Today's Progress**: More updates to boggle solver
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/node-boggle-solver)
+
 ### Day 49: March 20, 2017
 
 **Today's Progress**: Finished the solver algorithm for node boggle solver package.
