@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52: April 01, 2017
+
+**Today's Progress**: Added boggle solver npm package documentation and published.
+
+**Link to work:**  [GitHub](https://github.com/lyndseybrowning/node-boggle-solver)
+
 ### Day 51: March 28, 2017
 
 **Today's Progress**: Finished boggle solver functions.
